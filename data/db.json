@@ -1,0 +1,90 @@
+{
+  "properties": [
+    {
+      "title": "Stylish Studio",
+      "area": "Durban",
+      "bedrooms": 3,
+      "id": 2,
+      "image_url": "https://picsum.photos/600?random=2",
+      "price": 30000000
+    },
+    {
+      "title": "Stylish Studio",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 3,
+      "image_url": "https://picsum.photos/600?random=3",
+      "price": 20000000
+    },
+    {
+      "title": "Stylish Studio",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 4,
+      "image_url": "https://picsum.photos/600?random=4",
+      "price": 15000000
+    },
+    {
+      "title": "Stylish Studio",
+      "area": "Pretoria",
+      "bedrooms": "5",
+      "id": 5,
+      "image_url": "https://picsum.photos/600?random=5",
+      "price": 20000000000
+    },
+    {
+      "title": "Stylish Studio",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 6,
+      "image_url": "https://picsum.photos/600?random=6",
+      "price": 10000000
+    },
+    {
+      "title": "Blah Blah",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 7,
+      "image_url": "https://picsum.photos/600?random=7",
+      "price": 10000000
+    },
+    {
+      "title": "Modern House",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 8,
+      "image_url": "https://picsum.photos/600?random=8",
+      "price": 10000000
+    },
+    {
+      "title": "Stylish Studio",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 9,
+      "image_url": "https://picsum.photos/600?random=9",
+      "price": 10000000
+    },
+    {
+      "title": "Stylish Studio",
+      "area": "Durban",
+      "bedrooms": "5",
+      "id": 10,
+      "image_url": "https://picsum.photos/600?random=10",
+      "price": 10000000
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "full_name": " Ethan Lesar",
+      "email": "ethan@gmail.com",
+      "password": "password"
+    },
+    {
+      "full_name": "Luke Evertson",
+      "email": "luke@gmail.com",
+      "password": "password",
+      "id": 2
+    }
+  ]
+}
